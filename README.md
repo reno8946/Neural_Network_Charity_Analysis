@@ -7,4 +7,12 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## Results
 
-* 
+### Data Preprocessing
+
+* IS_SUCCESSFUL is considered the target variable
+
+* The features would be APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL
+
+* NAME AND EIN are not considered to be either features or targets and are removed from the input data
+
+
